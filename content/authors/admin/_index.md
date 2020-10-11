@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Vic Michele Grajeda
 
 # Username (this should match the folder name)
 authors:
@@ -10,50 +10,54 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of English and Film Studies
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Valencia College
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Professor; Surveyor and Creator of Words; Mother; Rotator of Chords & Beats, Futbols, Music, Weights, Pedals, & Feet; Film Critic, & Multi-Media Compilationist.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Film Studies and Camera's Gaze
+- Transnational Feminisms
+- Flash Fiction and Non-Fictio
+- Modern American and Language Poetries
+- Critical Race and Postcolonial Theories
+- LGBTQ+ Theories and Literatures
+- LatinX Theories and Literatures
+- Affect Theories
+- Activism and Community Involvement
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD Student
+    institution:  University of Central Flroida
+    year: 2020
+  - course: Introduction to Texts and Technology
+    institution: University of Central Flrodia
+    year: 2020
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+#   form "mailto:victoriagrajeda@icloud.com" or "#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/MsVicMichel
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=en&user=I1yFUiwAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/vicmichele
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
